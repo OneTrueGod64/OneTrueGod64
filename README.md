@@ -10,7 +10,7 @@ I'm currently enrolled in Portland Community College, focusing on a CIS degree i
 - 🏳️‍🌈 Advocate for queer resources and inclusion.
 - 🎥 Nicolas Cage aficionado and film lover.
 - 🎶 Karaoke king and music devotee.
-- 🎮 Nintendo 64 enthusiast.
+- 🎮 Nintendo/Gaming enthusiast.
 - 🎯 Goal: Become a Web Dev/Designer/ChatGPT prompt engineer.
   
 ## 🛠️ Technologies & Tools
