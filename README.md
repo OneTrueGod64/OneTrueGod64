@@ -11,7 +11,7 @@ I'm currently enrolled in Portland Community College, focusing on a CIS degree i
 - 🎥 Nicolas Cage aficionado and film lover.
 - 🎶 Karaoke king and music devotee.
 - 🎮 Nintendo/Gaming enthusiast.
-- 🎯 Goal: Become a Web Dev/Designer/ChatGPT prompt engineer.
+- 🎯 Goal: Become a Web Dev/Designer for small businesses/social services
   
 ## 🛠️ Technologies & Tools
 
