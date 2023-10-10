@@ -1,4 +1,4 @@
-# Hello there, I'm OneTrueGod64 🕶️🎮
+# Hello there, I'm the OneTrueGod64 🕶️🎮
 
 ## 🌈 About Me
 
