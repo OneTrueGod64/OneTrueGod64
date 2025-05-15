@@ -1,11 +1,10 @@
 I'm currently enrolled at Western Oregon University, focusing on a CIS degree in Web Design/Development.
 
-- 🌐 Passionate about web development and design.
-- 🏳️‍🌈 Advocate for queer resources and inclusion.
-- 🎥 Nicolas Cage aficionado and film lover.
-- 🎶 Karaoke and music devotee.
-- 🎮 Gaming enthusiast.
-- 🎯 Goal: Become a Web Dev/Designer for small businesses/social services
+- 🌐 Passionate about web development and design
+- 🏳️‍🌈 Advocate for queer resources and inclusion
+- 🎥 Nicolas Cage aficionado & film lover
+- 🎶 Karaoker/music devotee
+- 🎮 Gamer
 
 ## 🛠️ Technologies & Tools
 
