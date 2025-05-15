@@ -1,19 +1,11 @@
-# Hello there, I'm the OneTrueGod64 🕶️🎮
-
-## 🌈 About Me
-
-Origin story: My username is a tribute to Nicolas Cage, born in 1964, and revered as TheOneTrueGod. 64? That's a nod to Nintendo 64, a cornerstone of my gaming life.
-
-I'm currently enrolled in Portland Community College, focusing on a CIS degree in Web Design/Development. Besides being a Nic Cage aficionado and a Nintendo nerd, I work part-time as a student advocate for the Queer Resource Center on the Cascade campus. When I'm not buried in code, advocacy work, or binging Cage films, you'll find me exploring music, books, and singing karaoke!
+I'm currently enrolled at Western Oregon University, focusing on a CIS degree in Web Design/Development.
 
 - 🌐 Passionate about web development and design.
 - 🏳️‍🌈 Advocate for queer resources and inclusion.
 - 🎥 Nicolas Cage aficionado and film lover.
-- 🎶 Karaoke king and music devotee.
-- 🎮 Nintendo/Gaming enthusiast.
+- 🎶 Karaoke and music devotee.
+- 🎮 Gaming enthusiast.
 - 🎯 Goal: Become a Web Dev/Designer for small businesses/social services
-  
-## 🛠️ Technologies & Tools
 
 ## 🛠️ Technologies & Tools
 
